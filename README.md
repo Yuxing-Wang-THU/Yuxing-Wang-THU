@@ -6,4 +6,4 @@
 
 - ✨ My main research interests are : Embodied AI, Evolutionary Robotics, Reinforcement Learning and Evolutionary Optimization, aiming at co-designing the brain and body of various robots. 
 
-- 📫 Reach me through wyx20@mails.tsinghua.edu.cn
+- 📫 Reach me through wyx20@tsinghua.org.cn
