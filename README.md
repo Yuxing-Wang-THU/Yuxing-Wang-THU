@@ -1,9 +1,5 @@
 ### 您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola 👋
 
-<!-- ![GitHub stats](https://github-stats-extended.vercel.app/api?username=Yuxing-Wang-THU&count_private=true&bg_color=50,e96123,904e98&title_color=fff&text_color=fff&icon_color=79ff97&show_icons=true) -->
-
-您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola
-
 <p style="text-align:justify;">
     I’m a researcher in <strong>Embodied AI</strong> with a slightly unusual dream: <em>“Design a machine that can design other machines”</em>. 
     My work sits at the intersection of <strong>Robotics</strong> and <strong>Learning</strong> — 
