@@ -1,6 +1,6 @@
 ### 您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola 👋
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuxing-Wang-THU&count_private=true&bg_color=50,e96123,904e98&title_color=fff&text_color=fff&icon_color=79ff97&show_icons=true) -->
+<!-- ![GitHub stats](https://github-stats-extended.vercel.app/api?username=Yuxing-Wang-THU&count_private=true&bg_color=50,e96123,904e98&title_color=fff&text_color=fff&icon_color=79ff97&show_icons=true) -->
 
  <p style="text-align:justify;"> My name is Yuxing Wang (王昱兴). As a researcher in the Embodied Intelligence field, my passion lies in Robot Co-Design, Evolutionary Learning, and Large Models. I focus on the simultaneous coordination of brain (control), body (morphology), and environment (task) to design embodied agents that are not only structurally sound but also behaviorally adept.</p>
 
